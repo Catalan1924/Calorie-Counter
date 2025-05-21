@@ -13,7 +13,13 @@ body {
   background-attachment: scroll;
 }
 
-
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: rgb(53, 53, 53);
+  background-image: url(food\ 1.png);
+  background-attachment: scroll;
+}
 
 h1 {
   text-align: center;
