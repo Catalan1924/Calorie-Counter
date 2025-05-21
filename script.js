@@ -11,12 +11,7 @@
         let foods = [];
 
  
-        function init() {
-            loadFoods();
-            updateFoodList();
-            updateTotalCalories();
-            setupEventListeners();
-        }
+       
 
   
         function setupEventListeners() {
